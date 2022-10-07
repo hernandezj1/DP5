@@ -19,6 +19,7 @@ p#guide{
     text-align: left;
     
     
+    
 }
 nav#navbar{
     font-size: 18px;
@@ -132,6 +133,8 @@ iframe#sankey{
 }
 table{
     border-color: black;
+    background-color: lavenderblush;
+   
 }
 
 div#SQL {
@@ -139,3 +142,8 @@ div#SQL {
 }
 
 
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
